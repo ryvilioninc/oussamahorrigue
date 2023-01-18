@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **horrigueouss@gmail.com**
 
-- ⚡ Fun fact **I'm a coffee addicted.**
+- ⚡ Fun fact **I'm addicted to coffe.**
 
 ## 🚀 Languages and Tools:
 
