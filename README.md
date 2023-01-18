@@ -34,7 +34,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Oussamahorrigue/github-readme-streak-stats">
+    <a href="https://github.com/Oussamahorrigue/github-readme-streak-stats" target="_blank">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Oussama's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=oussamahorrigue&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -43,10 +43,10 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/oussama-horrigue-69624b1b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/OussamaHorrig"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/oussamahorrigue/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/oussama.horrigue/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://www.linkedin.com/in/oussama-horrigue-69624b1b7/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/OussamaHorrig" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/oussamahorrigue/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/oussama.horrigue/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
 </p>
 
