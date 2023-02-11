@@ -1,4 +1,7 @@
+<!DOCTYPE html>
+<html>
 <head>
+    <title>Oussama Horrigue</title>
     <meta name="google-site-verification" content="HbLcZ6uxZOilVC4BcoaGjt1HaTmRGQ4LrYwfz7MKD4U" />
 </head>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
@@ -48,4 +51,4 @@
 <a href = "https://www.facebook.com/oussama.horrigue/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
 </p>
-
+</html>
