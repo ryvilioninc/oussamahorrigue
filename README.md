@@ -11,13 +11,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Autonomous Systems Synthesis and Analysis Based on Unmanned Aeriel Vehicles**
+- 🔭 I’m currently working as a **Freelance Web Developer**
 
-- 🌱 I’m currently learning **ROS (Robot Operating System)**
+- 🌱 I’m currently learning **3D Web Design**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://oussamahorrigue.github.io/Portfolio/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://oussamahorrigue.github.io/portfolio-website/)**
 
 - 📫 How to reach me **horrigueouss@gmail.com**
 
