@@ -17,8 +17,6 @@
 
 - 🌱 We are always learning and exploring new technologies to deliver the best results.
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://oussamahorrigue.github.io/portfolio-website/)**
-
 - 📫 Reach out to us at **contact@ryvilion.com** for collaborations or inquiries.
 
 
